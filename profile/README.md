@@ -1,7 +1,7 @@
 # MMLab - Laboratório de Modelagem Molecular @ UFMG
 
 <p align="center">
-  <img src="[http://some_place.com/image.png](https://raw.githubusercontent.com/MMLab-UFMG/.github/main/profile/148256076.png)"/>
+  <img src="https://raw.githubusercontent.com/MMLab-UFMG/.github/main/profile/148256076.png"/>
 </p>
 
 Bem-vindo ao repositório do Laboratório de Modelagem Molecular (MMLab) da Universidade Federal de Minas Gerais (UFMG). Este espaço é dedicado à organização e ao compartilhamento de ferramentas e projetos desenvolvidos pelo nosso grupo, tanto para uso interno quanto para divulgação em artigos científicos.
